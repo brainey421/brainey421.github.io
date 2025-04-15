@@ -2524,10 +2524,10 @@ input, select, textarea {
 		}
 	}
 
-	#banner {
+	#bannerindex {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #645862;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/bannerindex.jpg");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
@@ -2536,7 +2536,59 @@ input, select, textarea {
 		padding: 6em 0;
 		text-align: center;
 	}
-
+	
+	#bannerrsvp {
+		background-attachment: scroll, scroll, scroll, fixed;
+		background-color: #645862;
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/bannerindex.jpg");
+		background-position: bottom left, bottom right, top left, top center;
+		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
+		background-size: 25em, 25em, auto, cover;
+		color: #fff;
+		cursor: default;
+		padding: 6em 0;
+		text-align: center;
+	}
+	
+	#bannertravel {
+		background-attachment: scroll, scroll, scroll, fixed;
+		background-color: #645862;
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/bannerindex.jpg");
+		background-position: bottom left, bottom right, top left, top center;
+		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
+		background-size: 25em, 25em, auto, cover;
+		color: #fff;
+		cursor: default;
+		padding: 6em 0;
+		text-align: center;
+	}
+	
+	#bannerevent {
+		background-attachment: scroll, scroll, scroll, fixed;
+		background-color: #645862;
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/bannerindex.jpg");
+		background-position: bottom left, bottom right, top left, top center;
+		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
+		background-size: 25em, 25em, auto, cover;
+		color: #fff;
+		cursor: default;
+		padding: 6em 0;
+		text-align: center;
+	}
+	
+	#bannerregistry {
+		background-attachment: scroll, scroll, scroll, fixed;
+		background-color: #645862;
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/bannerindex.jpg");
+		background-position: bottom left, bottom right, top left, top center;
+		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
+		background-size: 25em, 25em, auto, cover;
+		color: #fff;
+		cursor: default;
+		padding: 6em 0;
+		text-align: center;
+	}
+		
 		#banner .inner {
 			-moz-animation: reveal-banner 1s 0.25s ease-in-out;
 			-webkit-animation: reveal-banner 1s 0.25s ease-in-out;
