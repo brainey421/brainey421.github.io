@@ -1727,13 +1727,13 @@ input, select, textarea {
 	}
 
 	header.special {
-		margin-bottom: 5em;
+		/*margin-bottom: 5em;
 		padding-top: 7em;
-		position: relative;
+		position: relative;*/
 		text-align: center;
 	}
 
-		header.special:before, header.special:after {
+		/*header.special:before, header.special:after {
 			border-bottom: solid 1.5px;
 			border-top: solid 1.5px;
 			content: '';
@@ -1761,7 +1761,7 @@ input, select, textarea {
 			padding-top: 1.5em;
 		}
 
-		header.special .icon {
+		/*header.special .icon {
 			cursor: default;
 			height: 7em;
 			left: 0;
@@ -1774,7 +1774,7 @@ input, select, textarea {
 			header.special .icon:before {
 				font-size: 3.5em;
 				opacity: 0.35;
-			}
+			}*/
 
 	footer > :last-child {
 		margin-bottom: 0;
@@ -2530,7 +2530,7 @@ input, select, textarea {
 		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/bannerindex.jpg");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
-		background-size: 100%, 25em, auto, cover;
+		background-size: 25em, 25em, auto, 100%;
 		color: #fff;
 		cursor: default;
 		padding: 6em 0;
@@ -2543,7 +2543,7 @@ input, select, textarea {
 		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/bannerrsvp.jpg");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
-		background-size: 100%, 25em, auto, cover;
+		background-size: 25em, 25em, auto, 100%;
 		color: #fff;
 		cursor: default;
 		padding: 6em 0;
@@ -2556,7 +2556,7 @@ input, select, textarea {
 		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/bannertravel.jpg");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
-		background-size: 100%, 25em, auto, cover;
+		background-size: 25em, 25em, auto, 100%;
 		color: #fff;
 		cursor: default;
 		padding: 6em 0;
@@ -2569,7 +2569,7 @@ input, select, textarea {
 		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("../../images/bannerevent.jpg");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
-		background-size: 100%, 25em, auto, cover;
+		background-size: 25em, 25em, auto, 100%;
 		color: #fff;
 		cursor: default;
 		padding: 6em 0;
@@ -2734,7 +2734,7 @@ input, select, textarea {
 		/* Section/Article */
 
 			header.special {
-				padding-top: 5.5em;
+				/*padding-top: 5.5em;*/
 				margin-bottom: 4em;
 			}
 
@@ -2899,7 +2899,7 @@ input, select, textarea {
 
 			header.special {
 				margin-bottom: 4em;
-				padding-top: 5em;
+				/*padding-top: 5em;*/
 			}
 
 				header.special:before, header.special:after {
@@ -2907,7 +2907,7 @@ input, select, textarea {
 				}
 
 				header.special h2 + p {
-					padding-top: 1.25em;
+					/*padding-top: 1.25em;*/
 				}
 
 		/* Section/Article */
