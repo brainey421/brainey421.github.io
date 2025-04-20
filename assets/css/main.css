@@ -1727,13 +1727,13 @@ input, select, textarea {
 	}
 
 	header.special {
-		/*margin-bottom: 5em;
-		padding-top: 7em;
-		position: relative;*/
+		margin-bottom: 5em;
+		/*padding-top: 7em;*/
+		position: relative;
 		text-align: center;
 	}
 
-		/*header.special:before, header.special:after {
+		header.special:before, header.special:after {
 			border-bottom: solid 1.5px;
 			border-top: solid 1.5px;
 			content: '';
@@ -1761,7 +1761,7 @@ input, select, textarea {
 			padding-top: 1.5em;
 		}
 
-		/*header.special .icon {
+		header.special .icon {
 			cursor: default;
 			height: 7em;
 			left: 0;
@@ -1774,7 +1774,7 @@ input, select, textarea {
 			header.special .icon:before {
 				font-size: 3.5em;
 				opacity: 0.35;
-			}*/
+			}
 
 	footer > :last-child {
 		margin-bottom: 0;
