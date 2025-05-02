@@ -2170,7 +2170,7 @@ input, select, textarea {
 		.button.primary {
 			background: #83d3c9;
 			border-color: #83d3c9;
-			color: #fff !important;
+			color: #444 !important;
 		}
 
 			input[type="button"].primary:hover,
@@ -2636,7 +2636,8 @@ input, select, textarea {
 			}
 
 	body.index #main {
-		padding-top: 5em;
+		/* padding-top: 5em; */
+		padding-top: 3em;
 	}
 
 /* CTA */
