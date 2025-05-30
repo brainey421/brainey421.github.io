@@ -2811,7 +2811,7 @@ input, select, textarea {
 			}
 
 				.wrapper.special br {
-					display: none;
+					/* display: none; */
 				}
 
 				.wrapper.style1 {
@@ -3264,7 +3264,7 @@ input, select, textarea {
 			}
 
 				.wrapper.special br {
-					display: none;
+					/* display: none; */
 				}
 
 				.wrapper.style1 {
@@ -3303,7 +3303,7 @@ input, select, textarea {
 					}
 
 					#banner .inner br {
-						display: none;
+						/* display: none; */
 					}
 
 		/* Main */
